@@ -39,7 +39,7 @@ Exemplo de Lista Numerada
 
     #### Caixas de check
 
-    - [ ] Fazer a tela de login
+    - [x] Fazer a tela de login
     - [ ] Criar a tela de calculo
     - [ ] Criar a tela de histórico
 
